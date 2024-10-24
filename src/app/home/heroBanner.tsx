@@ -20,6 +20,26 @@ export const HeroBanner = () => {
                 and experienced team incorporates the perfect mix of insightful designs, calculated tactics
                 and supreme creativity along with state of art technology to build result driven relations.
               </h3>
+              <h3 className="text-white text-lg font-light text-justify">
+                Oricmeta is a Website Design & Development Firm specialized with Digital Solution. our young
+                and experienced team incorporates the perfect mix of insightful designs, calculated tactics
+                and supreme creativity along with state of art technology to build result driven relations.
+              </h3>
+              <h3 className="text-white text-lg font-light text-justify">
+                Oricmeta is a Website Design & Development Firm specialized with Digital Solution. our young
+                and experienced team incorporates the perfect mix of insightful designs, calculated tactics
+                and supreme creativity along with state of art technology to build result driven relations.
+              </h3>
+              <h3 className="text-white text-lg font-light text-justify">
+                Oricmeta is a Website Design & Development Firm specialized with Digital Solution. our young
+                and experienced team incorporates the perfect mix of insightful designs, calculated tactics
+                and supreme creativity along with state of art technology to build result driven relations.
+              </h3>
+              <h3 className="text-white text-lg font-light text-justify">
+                Oricmeta is a Website Design & Development Firm specialized with Digital Solution. our young
+                and experienced team incorporates the perfect mix of insightful designs, calculated tactics
+                and supreme creativity along with state of art technology to build result driven relations.
+              </h3>
             </div>
           </div>
         </div>
