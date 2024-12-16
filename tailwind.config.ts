@@ -9,9 +9,16 @@ const config: Config = {
   theme: {
     extend: {
       backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+        heroBanner: "url('/images/heroBanner.svg')",
+      },
+      colors: {
+        primary: {
+          light: "#1d4ed8",
+          main: "#60a5fa",
+          white: "#fff",
+          default: "#000",
+          transparent: "transparent",
+        },
       },
     },
   },

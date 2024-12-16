@@ -16,7 +16,7 @@ export const Header = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   return (
-    <div className="mx-auto max-w-7xl sm:px-6 lg:px-8 px-4 xl:space-y-10 lg:space-y-10 md:space-y-10 sm:space-y-10 space-y-5 py-4 bg-white/30 rounded-full relative mt-3 z-50">
+    <div className="mx-auto max-w-7xl sm:px-6 lg:px-8 px-4 xl:space-y-10 lg:space-y-10 md:space-y-10 sm:space-y-10 space-y-5 py-4 rounded-full relative mt-3 z-50">
       <div className="flex items-center justify-between">
         {/* Logo */}
         <Link href="#" className="text-white">
